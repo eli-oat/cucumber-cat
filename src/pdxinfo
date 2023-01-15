@@ -1,0 +1,10 @@
+name=walker
+author=eli_oat
+description=a little game about walking
+bundleID=com.eli_oat.walker
+version=1.0
+buildNumber=001
+imagePath=imgs/
+launchSoundPath=audio/
+contentWarning=none for now
+contentWarning2=still none
