@@ -6,7 +6,7 @@ local gfx <const> = pd.graphics
 class("Player").extends(gfx.sprite)
 
 function Player:init(x, y, c)
-	local playerImage = gfx.image.new("imgs/cat1")
+	local playerImage = gfx.image.new("imgs/cat3")
 	local scaleFactor <const> = 2
 	self:setImage(playerImage)
 	self:moveTo(x, y)
